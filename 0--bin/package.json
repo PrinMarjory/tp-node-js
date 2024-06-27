@@ -1,0 +1,20 @@
+{
+  "name": "tp-node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "sayHello": "./bin/say-hello.js",
+    "sayBye": "./bin/say-bye.js"
+  },
+  "scripts": {
+    "start": "cowsay yeah",
+    "coco": "cowsay coco"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
