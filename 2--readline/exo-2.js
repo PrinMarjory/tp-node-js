@@ -1,6 +1,4 @@
-const readlineInterface = require("./readlineModule");
-
-const rl = readlineInterface()
+const rl = require("./readlineModule");
 
 console.log("Entrez autant de lignes souhaitées ('exit' pour quitter) :");
 
