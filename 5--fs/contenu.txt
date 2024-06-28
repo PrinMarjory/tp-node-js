@@ -1,0 +1,4 @@
+Bonjour !
+
+Ceci est un fichier contenant du texte.
+Il y a plusieurs lignes !

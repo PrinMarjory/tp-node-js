@@ -2,7 +2,7 @@
 1/ Le programme demande à l'utilisateur quelle info il veut sur son OS
 2/ Le programme lui affiche l'info et repart en 1/ tant que 'exit' nest pas entré */
 
-const rl = require("./readlineModule");
+const rl = require("../2--readline/readlineModule");
 const os = require("os");
 
 function askInfo() {
